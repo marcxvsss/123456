@@ -1,0 +1,38 @@
+#m {
+    display: flex;
+}
+#a {
+    width: 40%;
+    height: 500px;
+    background-color: salmon;
+}
+#b {
+    height: 20%;
+}
+#c {
+    height: 80%;
+    background-color: blueviolet;
+}
+#d {
+    width: 10%;
+    background-color: yellow;
+}
+#e {
+    width:25%;
+    height: 500px;
+}
+#f {
+    width: 60%;
+    height: 80%;
+    background-color: tomato;
+}
+#g {
+    width: 60%;
+    height: 20%;
+    background-color: violet;
+}
+footer {
+    width: 65%;
+    height: 100px;
+    background-color: teal;
+}
